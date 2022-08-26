@@ -9,4 +9,4 @@
 - **原版手册：[Unity Addressable Asset system manual v1.11.2](https://topdown-engine-docs.moremountains.com/index.html)**
 - **学习环境：Unity  2020.3.14f1c1**
 
-为了翻译简单 将TopDown Engine   写成 TD
+为了翻译简单 将TopDown Engine   写成 TDE
